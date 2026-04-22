@@ -1,0 +1,11 @@
+Flask
+flask-cors
+tensorflow
+Pillow
+gunicorn
+google-generativeai 
+numpy
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
